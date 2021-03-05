@@ -1,16 +1,12 @@
-### Hi there 👋
+# Aopa! 🤙
+> Comecei a codificar editando templates de Blogspot para o meu Blog de jogos na época, em seguida fui criar páginas web com HTML/CSS e então parti para o desenvolvimento de jogos com Unity em JAVA e logo depois C#, tenho o jogo até hoje e está publicado na GooglePlay com o nome de: Truck Of Park - RolePlay.
 
-<!--
-**JeyssonMoura/JeyssonMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre
+- Nome: Jeysson Crispim de Moura
+- Idade: 22
+- Vivendo em: Barbalha, Brasil
+- Stack: PHP - CodeIgniter - Bootstrap - Phpmyadmin - React Native - C# Unity
+- Universidade: Análise e desenvolvimento de sistema
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Modelagem e Design
+- Stack: Blender - Photoshop 
