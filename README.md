@@ -9,4 +9,4 @@
 - **Universidade** : Análise e desenvolvimento de sistema
 
 ### Modelagem e Design
-- Stack: Blender - Photoshop 
+- **Stack** : Blender - Photoshop 
