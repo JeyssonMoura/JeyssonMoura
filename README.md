@@ -1,5 +1,5 @@
 # Aopa! 🤙
-> Comecei a codificar editando templates de Blogspot para o meu Blog de jogos, em seguida fui criar páginas web com HTML/CSS e então parti para o desenvolvimento de jogos com Unity em JAVA e logo depois C#, possuo um jogo publicado na GooglePlay.
+> Comecei a codificar editando templates de Blogspot para o meu Blog de jogos, em seguida fui criar páginas web com HTML/CSS. Depois de um tempo parti para o desenvolvimento de jogos com Unity em JAVA e logo depois C#, possuo um jogo publicado na GooglePlay.
 
 ### Sobre
 - **Nome** : Jeysson Crispim de Moura
