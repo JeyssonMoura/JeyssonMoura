@@ -3,6 +3,7 @@
 
 ### Sobre
 - **Nome** : Jeysson Crispim de Moura
+- **Vivendo em** : Barbalha/CE, Brasil
 - **Universidade** : Análise e desenvolvimento de sistema
 - **Stack** : PHP - CodeIgniter - Bootstrap - AngularJS - MySQL - React Native - C#
 
